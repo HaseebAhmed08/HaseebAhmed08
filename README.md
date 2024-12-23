@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Agentic Ai & python**
 
-- 👨‍💻 All of my projects are available at [My github id = HassebAhmed08](My github id = HassebAhmed08)
+- 👨‍💻 All of my projects are available at [My github id = HassebAhmed08]
 
 - 💬 Ask me about **Flutter & Dart**
 
